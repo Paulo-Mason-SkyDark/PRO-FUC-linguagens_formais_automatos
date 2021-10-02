@@ -1,0 +1,1 @@
+Projeto em andamento, a ideia é criar um automato, que idetifique se a palavra lançada faz parte do Σ = alfabeto
